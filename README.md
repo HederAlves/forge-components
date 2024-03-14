@@ -1,12 +1,34 @@
-# TSDX React w/ Storybook User Guide
+<div align="center">
 
-Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+![logo-visual-pack](https://github.com/HederAlves/visual-pack/assets/83372052/213ae18d-a0bd-48a2-a34e-27725ab7e63e)
 
-> This TSDX setup is meant for developing React component libraries (not apps!) that can be published to NPM. If you’re looking to build a React-based app, you should use `create-react-app`, `razzle`, `nextjs`, `gatsby`, or `react-static`.
+<div align="center">
 
-> If you’re new to TypeScript and React, checkout [this handy cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet/)
+  <h1>Visual Pack</h1>
+
+Your [React](http://facebook.github.io/react/) component library for frontend development
+
+![Badge](https://img.shields.io/badge/Desenvolvedor-HederAlves-%237159c1?style=for-the-badge&logo=ghost)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Badge](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Badge](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+
+</div>
+
+## About
+
+The main feature of this library is to enable developers to use it across various applications, ensuring consistency and reusability of components across projects. This promotes greater development efficiency and facilitates code maintenance. Furthermore, its intuitive interface and comprehensive documentation make it accessible and easy to use.
 
 ## Commands
+
+<div align="center">
+<h4>Install the library using the commands yarn add visual-pack or npm install visual-pack and go full throttle on interface development! 👾💥🚀 </h4>
+</div>
 
 TSDX scaffolds your new library inside `/src`, and also sets up a [Parcel-based](https://parceljs.org) playground for it inside `/example`.
 
