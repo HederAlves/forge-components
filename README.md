@@ -2,7 +2,7 @@
 
 ![logo-visual-pack](https://github.com/HederAlves/visual-pack/assets/83372052/213ae18d-a0bd-48a2-a34e-27725ab7e63e)
 
-<div align="center">
+</div>
 
   <h1>Visual Pack</h1>
 
