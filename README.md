@@ -24,9 +24,19 @@ The main feature of this library is to enable developers to use it across variou
 
 ## Commands
 
-<div align="center">
-<h4>Install the library using the commands yarn add visual-pack or npm install visual-pack and go full throttle on interface development! 👾💥🚀 </h4>
-</div>
+<h4> Install the library with one of the commands below and start destroying the interface development! 👾💥🚀 </h4>
+
+```bash
+yarn add visual-pack
+```
+
+<p align="center">or</p>
+
+```bash
+npm install visual-pack
+```
+
+### TSDX
 
 TSDX scaffolds your new library inside `/src`, and also sets up a [Parcel-based](https://parceljs.org) playground for it inside `/example`.
 
