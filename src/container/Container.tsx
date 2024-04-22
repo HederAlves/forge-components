@@ -4,12 +4,12 @@ import { ContainerStyles } from './Styles';
 export interface ContainerProps {
   gap?: number;
   justify?:
-  | 'flex-start'
-  | 'flex-end'
-  | 'center'
-  | 'space-between'
-  | 'space-around'
-  | 'space-evenly';
+    | 'flex-start'
+    | 'flex-end'
+    | 'center'
+    | 'space-between'
+    | 'space-around'
+    | 'space-evenly';
   children: React.ReactNode;
 }
 
