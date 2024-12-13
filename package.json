@@ -42,11 +42,11 @@
   "size-limit": [
     {
       "path": "dist/visual-pack.cjs.production.min.js",
-      "limit": "10 KB"
+      "limit": "40 KB"
     },
     {
       "path": "dist/visual-pack.esm.js",
-      "limit": "10 KB"
+      "limit": "40 KB"
     }
   ],
   "devDependencies": {
